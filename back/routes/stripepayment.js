@@ -1,0 +1,1 @@
+//stripeRoutes=require("./routes/stripepayment") in app.js
